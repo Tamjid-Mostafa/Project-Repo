@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 100%;
+    background: linear-gradient(to right, #f5fcbd,#65fbcd);
+}
+div{
+    display: block;
+    padding-top: 10px;
+
+}
